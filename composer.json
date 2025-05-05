@@ -24,11 +24,5 @@
             ]
         }
     },
-    "license": "MIT",
-    "config": {
-        "allow-plugins": {
-            "php-http/discovery": true,
-            "pixelfear/composer-dist-plugin": true
-        }
-    }
+    "license": "MIT"
 }
